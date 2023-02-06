@@ -1,0 +1,26 @@
+body {
+    background-image: url("img/fondo.jpg");
+}
+
+h2 {
+    border-bottom: solid black 2px;
+    margin: 0 0 20px 0;
+}
+
+table {
+    max-width: 90%;
+    margin: auto;
+}
+
+.contenido {
+    background-color: aliceblue;
+    width: 80%;
+    margin: 0 10%;
+    min-height: 90vh;
+}
+
+form {
+    padding: 20px;
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+}
